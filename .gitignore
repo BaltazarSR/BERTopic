@@ -1,0 +1,11 @@
+# Entorno virtual
+.venv/
+
+# Dataset (el notebook lo descarga automáticamente)
+data/
+
+# Archivos temporales
+__pycache__/
+.ipynb_checkpoints/
+_reporte_tmp.html
+.DS_Store
