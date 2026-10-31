@@ -155,4 +155,4 @@ Se muestran 2 segmentos para 10 tópicos representativos; la lista completa (2 p
 Se usó **Claude Code** (Anthropic, Claude Opus 5.5) como apoyo para escribir el código y el borrador de este reporte. El modelo se encargó de asignar las labels a los tópicos resultantes, mientras que las decisiones como el dataset o metodología fueron planificadas con ayuda de este modelo pero siempre con decisión final mía. 
 
 ## 8. Código
-[LINK AL REPOSITORIO / COLAB] — `BERTopic_noticias.ipynb`
+[https://github.com/BaltazarSR/BERTopic](https://github.com/BaltazarSR/BERTopic)
